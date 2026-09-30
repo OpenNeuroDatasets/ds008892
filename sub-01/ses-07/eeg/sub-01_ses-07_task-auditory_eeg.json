@@ -1,0 +1,18 @@
+{
+  "TaskName": "auditory attention",
+  "TaskDescription": "A mixed-speech auditory attention task. Participants attended to a target speaker (male/female) and its spatial location (left/right).",
+  "Manufacturer": "NE Neuroelectrics",
+  "ManufacturersModelName": "Enobio EEG system",
+  "SamplingFrequency": 500.0,
+  "PowerLineFrequency": 50,
+  "EEGReference": "common",
+  "SoftwareFilters": "n/a",
+  "EEGChannelCount": 32,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "RecordingDuration": 79.222,
+  "RecordingType": "epoched",
+  "EEGPlacementScheme": "10-20"
+}

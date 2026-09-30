@@ -1,0 +1,48 @@
+{
+  "onset": {
+    "LongName": "Event onset",
+    "Description": "Seconds from the first stored EEG sample; derived from the EEGLAB event marker.",
+    "Units": "s"
+  },
+  "duration": {
+    "LongName": "Event duration",
+    "Description": "Speech-stimulus duration reported in the accompanying paper.",
+    "Units": "s"
+  },
+  "trial_type": {
+    "LongName": "Trial type",
+    "Description": "The single auditory-attention task block."
+  },
+  "session_timestamp": {
+    "LongName": "Session timestamp",
+    "Description": "Timestamp copied from the source event table; timezone was not provided."
+  },
+  "left_channel_mp3": {
+    "LongName": "Left-channel speech file",
+    "Description": "Audio filename listed for the left speaker in the source event table."
+  },
+  "right_channel_mp3": {
+    "LongName": "Right-channel speech file",
+    "Description": "Audio filename listed for the right speaker in the source event table."
+  },
+  "target_speaker": {
+    "LongName": "Target speaker gender",
+    "Description": "Target speaker to attend to; interpreted from the source column Target f/m.",
+    "Levels": {
+      "male": "Male speaker",
+      "female": "Female speaker"
+    }
+  },
+  "target_location": {
+    "LongName": "Target speaker location",
+    "Description": "Spatial location of the target speaker; interpreted from the source column Target l/r.",
+    "Levels": {
+      "left": "Left speaker",
+      "right": "Right speaker"
+    }
+  },
+  "source_recording_id": {
+    "LongName": "Source recording ID",
+    "Description": "Original EEGLAB filename identifier, including source epoch number when a multi-epoch file was split."
+  }
+}

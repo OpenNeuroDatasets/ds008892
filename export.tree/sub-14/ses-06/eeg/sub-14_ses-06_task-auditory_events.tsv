@@ -1,0 +1,2 @@
+onset	duration	trial_type	session_timestamp	left_channel_mp3	right_channel_mp3	target_speaker	target_location	source_recording_id
+0.0	69.0	auditory_attention	2024-04-14_13-25-53	1-Male.mp3	2-Female.mp3	female	left	all:epoch-06

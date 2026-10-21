@@ -1,0 +1,16 @@
+{
+  "Name": "CuBiAAD preprocessed EEG",
+  "BIDSVersion": "1.11.1",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "Original CuBiAAD derivative recordings",
+      "Description": "Preprocessed recordings copied from the supplied database. Average reference and 0.4-32 Hz filtering are reported in its sidecar description."
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://doi.org/10.57760/sciencedb.27389"
+    }
+  ]
+}

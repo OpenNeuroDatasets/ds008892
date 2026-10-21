@@ -1,6 +1,0 @@
-{
-  "NIRSCoordinateSystem": "Other",
-  "NIRSCoordinateUnits": "cm",
-  "NIRSCoordinateSystemDescription": "HOMER2 SD.SrcPos/DetPos planar probe-layout coordinates copied from the source file; they are shared template positions and are not digitized or co-registered to individual anatomy. The source z values are all zero.",
-  "NIRSCoordinateProcessingDescription": "n/a"
-}

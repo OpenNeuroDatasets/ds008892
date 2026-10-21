@@ -1,0 +1,90 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Keren Shi
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Xue Yuan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Xu Liu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Ruiting Dai
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Na Li
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Junkai Feng
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Yunfa Fu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Ning Jiang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Jiayuan He
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+    creators:
+      - name: Keren Shi
+        nameType: Personal
+      - name: Xue Yuan
+        nameType: Personal
+      - name: Xu Liu
+        nameType: Personal
+      - name: Ruiting Dai
+        nameType: Personal
+      - name: Na Li
+        nameType: Personal
+      - name: Junkai Feng
+        nameType: Personal
+      - name: Yunfa Fu
+        nameType: Personal
+      - name: Ning Jiang
+        nameType: Personal
+      - name: Jiayuan He
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
